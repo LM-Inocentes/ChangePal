@@ -1,0 +1,58 @@
+                            CpE 481 Approval Sheet
+
+Title of the Project                            |   Date Submitted
+ChangePal: Real-Time Bill-to-Coin Conversion    |   September 28, 2023
+through ESP32 Microcontroller: Design,          |
+Implementation, and Analysis	                |
+-----------------------------------------------------------------------------------------------------------------------------
+Name of Proponents                              |   Name of Adviser
+Banilad Jr, Jim Kenn                            |   Engr. Johnalyn Figueras
+Inocentes, Louise Martin                        |
+Polancos, Kyle	                                |
+-----------------------------------------------------------------------------------------------------------------------------
+Brief Description of the Project
+Daily commuters and students in Cebu City's hectic environment sometimes struggle with effective currency conversion. In order to address this, "ChangePal"—a conversion system based on the ESP32 Microcontroller—emerges. It has cutting-edge modules including bill recognition to verify authenticity, depositing methods to sort coins and bills in real-time, and error management to provide a smooth user experience. The system's customizable denominations, interactive touchscreen software that shows current balances, and user-friendly interface improve user participation. After extensive Spiral Model research, "ChangePal" displays superior sorting accuracy, speed, and energy economy. "ChangePal" represents a significant step in real-time currency conversion thanks to its distinctive hardware and software architecture, which is supported by encouraging early testing.
+-----------------------------------------------------------------------------------------------------------------------------
+Objectives of the Project
+
+- To develop a real-time and convenient conversion system to address the need for efficient bill-to-coin conversions, especially catering to the needs of students and daily commuters in Cebu City.
+- Deliver a real-time currency conversion solution to minimize wait times and streamline transactions for daily commuters and students in Cebu City.
+- To position 'ChangePal' as the preferred choice for users, its functionality must extend beyond mere convenience, delivering tangible economic benefits as demonstrated through a rigorous cost-benefit analysis
+- to create a prototype that Enable users to customize how they receive their change, enhancing satisfaction and catering to individual preferences.
+-----------------------------------------------------------------------------------------------------------------------------
+Testing Strategies
+
+1.	Software Testing Description: provides a comprehensive plan and procedural guide for the testing process, ensuring that tests are systematic, replicable, and cover all necessary aspects of the software being tested.
+2.	Functional Analysis: Assess whether "ChangePal" performs all its intended functions accurately, such as bill recognition, coin sorting, and dispensing. This might involve stress tests, edge-case evaluations, and other scenario-based tests.
+3.	User Experience (UX) Analysis: Conduct surveys, focus groups, and user testing sessions to determine the ease of use, user satisfaction, and potential areas of improvement in the interface and overall user journey.
+4.	Socio-Cultural Impact Analysis: to understand the potential impact of "ChangePal" on the local culture, especially if there are specific nuances or habits related to currency handling in Cebu City.
+5.	Market Analysis: Understand the potential user base, their needs, and how "ChangePal" compares to any existing or potential competitors in the market.
+-----------------------------------------------------------------------------------------------------------------------------
+Agreement
+
+This is to certify that the project entitled Title of the Project Here  has been approved by the CpE 526 Project Proposal Approving Committee. It was agreed that the team needs to implement the major functionalities and will be checked based on incremental milestones.  It is also understood that each increment will be given specific percentage as specified in the table below. Failure to have project checking on the dates agreed is considered zero for a particular Increment. 
+-----------------------------------------------------------------------------------------------------------------------------
+                Milestone                       |               Functionalities Included
+Increment 1         |           40%             |   Enumerate the functionalities expected here
+Increment 2         |           60%             |   Increment 1 plus list of additional functionalities
+Increment 3	        |           80%             |   Increment 2 plus list of additional functionalities
+Increment 4         |           100%            |   Increment 3 plus list of additional functionalities
+-----------------------------------------------------------------------------------------------------------------------------
+Grading System
+
+The team also affixes their signature in agreement to the grading system and regulations in the evaluation of the project. The passing percentage is 50%. Students whose percentage will go below 50% will be given a chance through written or practical exam related to their project. The highest grade for those who will take the removal exam is 3.0.
+-----------------------------------------------------------------------------------------------------------------------------
+                Criterion	                    |                   Percentage
+        Milestones/Deliverables	                |                       40%
+        Documentation	                        |                       20%
+        Presentation and Defense	            |                       40%
+-----------------------------------------------------------------------------------------------------------------------------
+Promptness of Deliverables
+The team is advised to observe promptness in submitting deliverables/milestones to ensure completion of the project within the given duration. A delay in submission of one of the deliverables would already affect the final delivery of the project. The team’s failure to come during project checking for an increment would mean zero for that particular increment. Delay in document deliverables would mean subtraction of 10 points from the milestone item of Documentation criteria.
+-----------------------------------------------------------------------------------------------------------------------------
+Signatories and Proponents
+        Approval Signature	                    |                       Proponents
+Johnalyn Figueras   (Adviser)	                |                 Banilad Jr., Jim Kenn
+Chris Jordan Aliac  (Project Coordinator) 	    |                 Inocentes, Louise Martin
+	                                            |                 Polancos, Kyle
+-----------------------------------------------------------------------------------------------------------------------------
