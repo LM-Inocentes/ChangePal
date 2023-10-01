@@ -11,7 +11,13 @@ Inocentes, Louise Martin                        |
 Polancos, Kyle	                                |
 -----------------------------------------------------------------------------------------------------------------------------
 Brief Description of the Project
-Daily commuters and students in Cebu City's hectic environment sometimes struggle with effective currency conversion. In order to address this, "ChangePal"—a conversion system based on the ESP32 Microcontroller—emerges. It has cutting-edge modules including bill recognition to verify authenticity, depositing methods to sort coins and bills in real-time, and error management to provide a smooth user experience. The system's customizable denominations, interactive touchscreen software that shows current balances, and user-friendly interface improve user participation. After extensive Spiral Model research, "ChangePal" displays superior sorting accuracy, speed, and energy economy. "ChangePal" represents a significant step in real-time currency conversion thanks to its distinctive hardware and software architecture, which is supported by encouraging early testing.
+Students and daily commuters in the busy environment of Cebu City occasionally struggle with currency conversion. Modern modules 
+are included, such as bill recognition to confirm authenticity, depositing mechanisms to sort coins and bills in real-time, and 
+error management to ensure a positive user experience. Participation is increased by the system's programmable denominations, 
+interactive touchscreen software that displays current balances, and user-friendly interface. "ChangePal" exhibits enhanced 
+sorting accuracy, speed, and energy economy after comprehensive Spiral Model study. Thanks to its unique combination of software
+and hardware design, which is supported by promising early testing, "ChangePal" represents an important development in real-time
+currency conversion.
 -----------------------------------------------------------------------------------------------------------------------------
 Objectives of the Project
 
