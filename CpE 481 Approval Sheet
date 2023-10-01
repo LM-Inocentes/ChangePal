@@ -2,8 +2,7 @@
 
 Title of the Project                            |   Date Submitted
 ChangePal: Real-Time Bill-to-Coin Conversion    |   September 28, 2023
-through ESP32 Microcontroller: Design,          |
-Implementation, and Analysis	                |
+prototype	                                |
 -----------------------------------------------------------------------------------------------------------------------------
 Name of Proponents                              |   Name of Adviser
 Banilad Jr, Jim Kenn                            |   Engr. Johnalyn Figueras
@@ -12,26 +11,28 @@ Polancos, Kyle	                                |
 -----------------------------------------------------------------------------------------------------------------------------
 Brief Description of the Project
 Students and daily commuters in the busy environment of Cebu City occasionally struggle with currency conversion. Modern modules 
-are included, such as bill recognition to confirm authenticity, depositing mechanisms to sort coins and bills in real-time, and error 
+are included, such as bill recognition to confirm authenticity, depositing mechanisms to sort coins in real-time, and error 
 management to ensure a positive user experience. Participation is increased by the system's programmable denominations, interactive 
-touchscreen software that displays current balances, and user-friendly interface. "ChangePal" exhibits enhanced sorting accuracy and energy 
-economy after comprehensive Spiral Model study. Thanks to its unique combination of software and hardware design, 
+touchscreen software that displays current balances, and user-friendly interface. "ChangePal" exhibits enhanced sorting accuracy 
+and energy economy after comprehensive Spiral Model study. Thanks to its unique combination of software and hardware design, 
 which is supported by promising early testing, "ChangePal" represents an important development in real-time currency conversion.
 -----------------------------------------------------------------------------------------------------------------------------
 Objectives of the Project
 
-- To develop a real-time and convenient conversion system to address the need for efficient bill-to-coin conversions, especially catering to the needs of students and daily commuters in Cebu City.
-- Deliver a real-time currency conversion solution to minimize wait times and streamline transactions for daily commuters and students in Cebu City.
-- To position 'ChangePal' as the preferred choice for users, its functionality must extend beyond mere convenience, delivering tangible economic benefits as demonstrated through a rigorous cost-benefit analysis
-- to create a prototype that Enable users to customize how they receive their change, enhancing satisfaction and catering to individual preferences.
+- to develop an instant bill-to-coin system for Cebu City's students and commuters.
+- to design a prototype allowing users to personalize their change receipt method.
+- To compare and evaluate a bill dispensing module that incorporates either a sliding mechanism or a conveyor system. The aim 
+  is to determine and compare the efficiency, reliability, and user experience of each method to ascertain the optimal solution 
+  for real-time currency processing.
+- To test coin dispensing embedded mechanism's accuracy through functional analysis.
 -----------------------------------------------------------------------------------------------------------------------------
 Testing Strategies
 
-1.	Software Testing Description: provides a comprehensive plan and procedural guide for the testing process, ensuring that tests are systematic, replicable, and cover all necessary aspects of the software being tested.
-2.	Functional Analysis: Assess whether "ChangePal" performs all its intended functions accurately, such as bill recognition, coin sorting, and dispensing. This might involve stress tests, edge-case evaluations, and other scenario-based tests.
-3.	User Experience (UX) Analysis: Conduct surveys, focus groups, and user testing sessions to determine the ease of use, user satisfaction, and potential areas of improvement in the interface and overall user journey.
-4.	Socio-Cultural Impact Analysis: to understand the potential impact of "ChangePal" on the local culture, especially if there are specific nuances or habits related to currency handling in Cebu City.
-5.	Market Analysis: Understand the potential user base, their needs, and how "ChangePal" compares to any existing or potential competitors in the market.
+1. Software Testing. Description: ensures methodical, reproducible, and complete software testing with a detailed plan and procedure.
+2. Functional Analysis: Evaluate "ChangePal" for accurate bill recognition, coin sorting, and dispensing. Stress, edge-case, and other scenario-based tests may be used.
+3. Conduct UX Analysis: Surveys, focus groups, and user testing to assess ease of use, satisfaction, and areas for improvement in the interface and user journey.
+4. User Acceptance Testing (UAT): Evaluate "ChangePal"'s usability and adaptability in Cebu City, taking into account local residents' distinctive currency handling preferences.
+5. Market Analysis: Assess user demands and compare "ChangePal" to any existing or future competitors.
 -----------------------------------------------------------------------------------------------------------------------------
 Agreement
 
