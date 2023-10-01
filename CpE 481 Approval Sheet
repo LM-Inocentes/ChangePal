@@ -39,10 +39,57 @@ Agreement
 This is to certify that the project entitled Title of the Project Here  has been approved by the CpE 526 Project Proposal Approving Committee. It was agreed that the team needs to implement the major functionalities and will be checked based on incremental milestones.  It is also understood that each increment will be given specific percentage as specified in the table below. Failure to have project checking on the dates agreed is considered zero for a particular Increment. 
 -----------------------------------------------------------------------------------------------------------------------------
                 Milestone                       |               Functionalities Included
-Increment 1         |           40%             |   Enumerate the functionalities expected here
-Increment 2         |           60%             |   Increment 1 plus list of additional functionalities
-Increment 3         |           80%             |   Increment 2 plus list of additional functionalities
-Increment 4         |           100%            |   Increment 3 plus list of additional functionalities
+Increment 1         |           40%             |   
+Deposit Module 
+•	The system can sort coins for currency denomination from 1 peso, 5 peso, 10 peso, and 20 peso.
+•	The system also must implement validation for the coin deposits. Therefore, it has to have Coin jam prevention and alert mechanism.
+•	The researchers should test the efficacy of the mechanical switch or trigger prototype. Through sorting accuracy analysis, supplementary for the functional analysis.
+•	The system must initially display for the mean time in 16x4 LCD I2C, the balance update as coins are deposited.
+•	The researchers should present guide questions and request endorsement for the team to commence the User Acceptance Testing.
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+                Milestone                       |               Functionalities Included
+Increment 2         |           60%             |  
+Bill Recognition and Validation Module
+•	The system should have an embedded system that enables to accept legitimate bills or banknotes.
+•	The system should have an alert mechanism for counterfeit inputs.
+•	The system should have enabled its primary feature which is denomination change. The researchers might initially be using 16x2 and 16x4 LCD I2C for result validation.
+Dispensing Module
+•	The system should have an accurate change input by the user.
+•	The system has separate compartments for different bill and coin denominations.
+•	The system has mechanism to ensure single bill/coin dispensation without damage.
+•	The researchers should present the result from the comparison and evaluation between sliding mechanism and conveyor belt mechanism with the efficacy in dispensing bill denominations. Also, answering the question, “which is more effective?”
+•	 The researchers must provide the results from that survey and report statistical data gathered. This is supplementary for the market analysis.
+Display Module
+•	The researchers should present software requirements specifications to the advisor for validation before the software development.
+
+-----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+                Milestone                       |               Functionalities Included
+Increment 3         |           80%             |   
+Error Handling Module
+•	The system must already the skeletal functions.
+•	The system must have a return mechanism for unrecognized or potentially counterfeit bills.
+Market Analysis
+•	The researchers should present results from the market analysis.
+Display Module
+•	The researchers should present the “Sprint” of the software development for the system.
+•	The system should have already the appropriate behavior of what the software dictate.
+•	The software should communicate to the hardware of the system.
+•	The system has already touchscreen feature for the user interface.
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+                Milestone                       |               Functionalities Included
+Increment 4         |           100%             |   
+•	The system should display all the specifications and functionalities within the scope of the system.
+•	The system should have all the modules working.
+•	The researchers should also provide the Software Testing Document. It should contain the result for the software 
+        testing against the user acceptance criteria.
+•       The reseachers should be able to present the proposal for the team to commence the Conduct UX Analysis.
 -----------------------------------------------------------------------------------------------------------------------------
 Grading System
 
