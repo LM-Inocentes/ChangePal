@@ -19,10 +19,10 @@ which is supported by promising early testing, "ChangePal" represents an importa
 -----------------------------------------------------------------------------------------------------------------------------
 Objectives of the Project
 
-- to develop an instant bill-to-coin system for Cebu City's students and commuters.
-- to design a prototype allowing users to personalize their change receipt method.
-- To compare and evaluate a bill dispensing module that incorporates either a sliding mechanism or a conveyor system. The aim 
-  is to determine and compare the efficiency, reliability, and user experience of each method to ascertain the optimal solution 
+- To develop an instant bill-to-coin system for Cebu City's students and commuters.
+- To design a prototype allowing users to personalize their change receipt method.
+- To incorporate either a sliding mechanism or a conveyor system in the bill dispensing mechanism. This is to determine and
+  compare the efficiency, reliability, and user experience of each method to ascertain the optimal solution 
   for real-time currency processing.
 - To test coin dispensing embedded mechanism's accuracy through functional analysis.
 -----------------------------------------------------------------------------------------------------------------------------
